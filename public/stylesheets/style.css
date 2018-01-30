@@ -1,0 +1,32 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: "Graduate", sans-serif;
+}
+
+input {
+  width: 500px;
+  display: block;
+}
+
+h5 {
+  padding-top: 20px;
+}
+
+.container-fluid {
+  background-image: url("/images/sky.jpg");
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+form {
+  padding: 20px 0px;
+}
